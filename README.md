@@ -7,6 +7,6 @@
 ![Made in Notepad](nostalgia/notepad.gif)
 ![Shareware](nostalgia/shareware.gif)
 
-![Valid HTML 4.01](nostalgia/w3c_html.gif)
-![Valid CSS 2](nostalgia/w3c_css.gif)
-![Visitors](nostalgia/counter.gif)
+![You are visitor 984375](nostalgia/counter.gif)
+![This readme is valid HTML 4.01](nostalgia/w3c_html.gif)
+![This readme is valid CSS 2](nostalgia/w3c_css.gif)
