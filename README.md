@@ -1,12 +1,18 @@
-![Catscape Navigator](nostalgia/catscape.png)
+<p align="right">
+  <img src="nostalgia/catscape.png" alt="Catscape Navigator" />
+</p>
 
-![Get Firefox](nostalgia/firefoxget.png)
-![Get Macromedia Shockwave](nostalgia/macromedia-2000.gif)
-![Visitors](nostalgia/winamp.gif)
-![CLICK FOR FREE MONEY](nostalgia/valueclick.gif)
-![Made in Notepad](nostalgia/notepad.gif)
-![Shareware](nostalgia/shareware.gif)
+<p align="center">
+  <img src="nostalgia/firefoxget.png" alt="Get Firefox" />
+  <img src="nostalgia/macromedia-2000.gif" alt="Get Macromedia Shockwave" />
+  <img src="nostalgia/winamp.gif" alt="Visitors" />
+  <img src="nostalgia/valueclick.gif" alt="CLICK FOR FREE MONEY" />
+  <img src="nostalgia/notepad.gif" alt="Made in Notepad" />
+  <img src="nostalgia/shareware.gif" alt="Shareware" />
+</p>
 
-![You are visitor 984375](nostalgia/counter.gif)
-![This readme is valid HTML 4.01](nostalgia/w3c_html.gif)
-![This readme is valid CSS 2](nostalgia/w3c_css.gif)
+<p align="center">
+  <img src="nostalgia/counter.gif" alt="You are visitor 984375" />
+  <img src="nostalgia/w3c_html.gif" alt="This readme is valid HTML 4.01" />
+  <img src="nostalgia/w3c_css.gif" alt="This readme is valid CSS 2" />
+</p>
