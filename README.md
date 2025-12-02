@@ -8,5 +8,5 @@
 ![Shareware](nostalgia/shareware.gif)
 
 ![Valid HTML 4.01](nostalgia/w3c_html.gif)
-![Valid CSS](nostalgia/w3c_css.gif)
+![Valid CSS 2](nostalgia/w3c_css.gif)
 ![Visitors](nostalgia/counter.gif)
