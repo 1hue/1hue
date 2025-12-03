@@ -16,3 +16,7 @@
   <img src="nostalgia/w3c_html.gif" alt="This readme is valid HTML 4.01" />
   <img src="nostalgia/w3c_css.gif" alt="This readme is valid CSS 2" />
 </p>
+
+<p align="center">
+  <sub>Powered by phpBB 1.0</sub>
+</p>
